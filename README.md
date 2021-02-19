@@ -1,3 +1,7 @@
+## Transfered
+https://github.com/stealify/graalvm-nodejs-interop/blob/main/README.md
+
+
 # node-graalvm
 Node.JS on GraalVM
 
